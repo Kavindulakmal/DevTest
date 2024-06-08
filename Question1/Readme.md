@@ -1,10 +1,10 @@
-###Make the Script Executable:
+### Make the Script Executable:
 
 ```
 chmod +x Q1.sh
 ```
 
-###To Run the Script:
+### To Run the Script:
 
 ```
 ./Q1.sh
