@@ -7,6 +7,6 @@ chmod +x Q1.sh
 ### To Run the Script:
 
 ```
-./Q1.sh
+./Q1.sh text.txt
 
 ```
